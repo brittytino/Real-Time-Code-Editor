@@ -6,11 +6,7 @@
 	"scripts": {
 		"dev": "nodemon --exec ts-node src/server.ts",
 		"start": "node dist/server.js",
-		"build": "tsc",
-		"heroku-postbuild": "npm run build"
-	},
-	"engines": {
-		"node": "18.x"
+		"build": "tsc"
 	},
 	"keywords": [],
 	"author": "",
@@ -18,7 +14,7 @@
 	"dependencies": {
 		"cors": "^2.8.5",
 		"dotenv": "^16.3.1",
-		"express": "^4.19.2",
+		"express": "^4.21.0",
 		"socket.io": "^4.7.3"
 	},
 	"devDependencies": {

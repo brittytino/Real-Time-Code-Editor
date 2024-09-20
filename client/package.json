@@ -7,11 +7,7 @@
         "dev": "vite",
         "build": "tsc && vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-        "preview": "vite preview",
-        "start": "vite preview"
-    },
-    "engines": {
-        "node": "18.x"
+        "preview": "vite preview"
     },
     "dependencies": {
         "@uiw/codemirror-extensions-color": "^4.21.21",
