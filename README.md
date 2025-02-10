@@ -1,119 +1,118 @@
 
-A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
+---
 
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Sync?style=for-the-badge&color=e67234)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
+# Real-Time Collaborative Code Editor
+
+A **real-time code editor** designed for seamless collaboration, allowing users to work on projects together in real-time. With support for various programming languages, file management, and collaborative features, it's a powerful platform for both learning and professional development.
 
 ## 🔮 Features
 
--   💻 Real-time collaboration on code editing across multiple files
--   📁 Create, open, edit, save, delete, and organize files and folders
--   💾 Option to download the entire codebase as a zip file
--   🚀 Unique room generation with room ID for collaboration
--   🌍 Comprehensive language support for versatile programming
--   🌈 Syntax highlighting for various file types with auto-language detection
--   🚀 Code Execution: Users can execute the code directly within the collaboration environment, providing instant feedback and results.
--   ⏱️ Instant updates and synchronization of code changes across all files and folders
--   📣 Notifications for user join and leave events
--   👥 User presence list of users currently in the collaboration session, including online/offline status indicators
--   💬 Group chatting allows users to communicate in real-time while working on code.
--   🎩 Real-time tooltip displaying users currently editing
--   💡 Auto suggestion based on programming language
--   🔠 Option to change font size and font family
--   🎨 Multiple themes for personalized coding experience
--   🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time, enhancing the interactive experience of your project.
+- **💻 Real-time Collaboration**: Edit code together with multiple users across different files.
+- **📁 File Management**: Create, open, edit, save, delete, and organize files and folders effortlessly.
+- **💾 Download Codebase**: Download the entire project as a zip file for offline access.
+- **🚀 Unique Room ID**: Collaborate instantly by sharing a unique room ID for each session.
+- **🌍 Language Support**: Supports multiple programming languages, enabling flexible collaboration.
+- **🌈 Syntax Highlighting**: Auto-language detection and syntax highlighting for a variety of file types.
+- **🚀 Code Execution**: Run your code directly within the environment and get instant feedback.
+- **⏱️ Real-time Synchronization**: Code changes are instantly updated and synchronized for all users in the session.
+- **📣 Notifications**: Get notified when users join or leave the collaboration session.
+- **👥 User Presence List**: View a list of users currently in the session, with online/offline status indicators.
+- **💬 Real-time Chat**: Chat with collaborators while working on the code.
+- **🎩 Live Tooltip**: See which users are actively editing specific parts of the code.
+- **💡 Code Suggestions**: Auto-suggestions based on the programming language to help speed up coding.
+- **🔠 Customization**: Adjust font size and font family to suit your preferences.
+- **🎨 Theming**: Choose from multiple themes for a personalized coding experience.
+- **🎨 Collaborative Drawing**: Sketch and draw with your team in real-time to visualize ideas.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
+Check out the live demo of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket io](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- ![Socket.io](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge)
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## ⚙️ Installation
 
-1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
-2. **Clone the repository:**
-    ```bash
-    git clone https://github.com/brittytino/Real-Time-Code-Editor.git
-    ```
-3. **Set .env file:**
-   Inside the client and server directories rename the `.env.example` file to `.env` and set the following environment variables:
+To get started with the project, follow these steps:
 
-    Frontend:
+1. **Fork the Repository**:  
+   Click the "Fork" button at the top-right corner of this page to fork the repository.
 
-    ```bash
-    VITE_BACKEND_URL=<your_server_url>
-    ```
+2. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/brittytino/Real-Time-Code-Editor.git
+   ```
 
-    Backend:
+3. **Set up Environment Variables**:  
+   Rename the `.env.example` files in the `client` and `server` directories to `.env` and set the following environment variables:
 
-    ```bash
-    PORT=3000
-    ```
+   **Frontend (`client`):**
+   ```bash
+   VITE_BACKEND_URL=<your_server_url>
+   ```
 
-4. **Install dependencies:**
-   Navigate to the frontend and backend directories separately and run:
-    ```bash
-     npm install
-    ```
-5. **Start the frontend and backend servers:**  
-   Frontend:
-    ```bash
-    cd client
-    npm run dev
-    ```
-    Backend:
-    ```bash
-    cd server
-    npm run dev
-    ```
-6. **Access the application:**
-   Open a browser and enter the following URL:
-    ```bash
-    http://localhost:5173/
-    ```
+   **Backend (`server`):**
+   ```bash
+   PORT=3000
+   ```
 
-## 🔮 Features for next release
+4. **Install Dependencies**:  
+   Navigate to the frontend and backend directories separately and install the necessary dependencies:
+   ```bash
+   npm install
+   ```
 
--   **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
+5. **Start the Servers**:  
+   - Frontend:  
+     ```bash
+     cd client
+     npm run dev
+     ```
+   - Backend:  
+     ```bash
+     cd server
+     npm run dev
+     ```
+
+6. **Access the Application**:  
+   Open a browser and visit:
+   ```bash
+   http://localhost:5173/
+   ```
+
+## 🔮 Upcoming Features
+
+- **Admin Permissions**: Introduce an admin permission system to manage user access levels and control over certain platform features.
 
 ## 🤝 Contribute
 
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions! If you'd like to report a bug, suggest a new feature, or contribute to the project, please refer to the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌟 Support Us
 
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
+If you find this project useful, please consider giving it a star ⭐ on GitHub. It helps the project gain visibility and motivates further development. Thank you for your support!
 
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🌟 Appreciation for Resources
+## 🌟 Acknowledgments
 
-Special thanks to EMKC for providing the Piston API, enabling code execution. For more information, visit the following links:
+Special thanks to **EMKC** for providing the **Piston API**, which enables code execution functionality in the project. For more information, check out:
 
--   [Piston Repository](https://github.com/engineer-man/piston)
--   [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
+- [Piston Repository](https://github.com/engineer-man/piston)
+- [Piston Documentation](https://piston.readthedocs.io/en/latest/api-v2/)
 
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </td>
-    </tr>
-  </tbody>
-</table>
+---
+
+This version is more polished, better formatted, and emphasizes the key sections in a more readable layout. Let me know if you need further adjustments!
