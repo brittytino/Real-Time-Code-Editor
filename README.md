@@ -1,4 +1,3 @@
-![logo](https://github.com/sahilatahar/Code-Sync/assets/100127570/d1ff7f52-a692-4d51-b281-358aeab9156e)
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
@@ -50,7 +49,7 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
+    git clone https://github.com/brittytino/Real-Time-Code-Editor.git
     ```
 3. **Set .env file:**
    Inside the client and server directories rename the `.env.example` file to `.env` and set the following environment variables:
@@ -112,29 +111,6 @@ Special thanks to EMKC for providing the Piston API, enabling code execution. Fo
 -   [Piston Repository](https://github.com/engineer-man/piston)
 -   [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
 
-Also, huge gratitude to Tldraw contributors for their amazing library. For more information about Tldraw, please visit:
-
--   [Tldraw Repository](https://github.com/tldraw/tldraw)
--   [Tldraw Documentation](https://tldraw.dev/)
-
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <br/>
-        <a href="https://linkedin.com/in/sahilatahar">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         </td>
