@@ -7,7 +7,7 @@ function Footer() {
                     href="https://github.com/sahilatahar"
                     className="text-primary underline underline-offset-1"
                 >
-                    sahilatahar
+                    Tino Britty
                 </a>
             </span>
         </footer>

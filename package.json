@@ -2,5 +2,10 @@
   "dependencies": {
     "express": "^4.21.0",
     "socket.io": "^4.7.5"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   }
 }
